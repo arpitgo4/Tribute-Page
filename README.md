@@ -1,5 +1,5 @@
 
-# React-Redux-Scaffold [![Build Status](https://travis-ci.org/arpitgo4/React-Redux-Scaffold.svg?branch=master)](https://travis-ci.org/arpitgo4/React-Redux-Scaffold)
+# Tribute Page [![Build Status](https://travis-ci.org/arpitgo4/Tribute-Page.svg?branch=master)](https://travis-ci.org/arpitgo4/Tribute-Page)
 Client side scaffold with React-Redux on the frontend and Express server to serve built files in the production mode. Scaffold supports production and development modes, with **Best Developer Experience** ( DX ) by Hot-Loading for the client side application. There will be no need to restart during development, hence making the experience smooth and decrease the delivery time.
 
 ## Scaffold Structure 
