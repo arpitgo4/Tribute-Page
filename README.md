@@ -6,6 +6,8 @@ Hosted on Heroku at [https://tribute-page-freecodecamp.herokuapp.com/](https://t
 
 **Note: First load will take around 60-90 seconds, as application is hosted on Heroku Developer's Dyno, which sleeps after 30 minutes of inactivity.**
 
+[Design Preview Image](https://drive.google.com/file/d/0B6z7s08w7m18Tzg4Z2JWbm1UMzg/view?usp=drivesdk)
+
 ## Project Structure 
 
 ```
