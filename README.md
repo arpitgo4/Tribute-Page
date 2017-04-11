@@ -1,7 +1,8 @@
 
 # Tribute Page [![Build Status](https://travis-ci.org/arpitgo4/Tribute-Page.svg?branch=master)](https://travis-ci.org/arpitgo4/Tribute-Page)
-Basic design challenge from freecodecamp.com for Front Developer Certification [Build a Tribute Page](https://www.freecodecamp.com/challenges/build-a-tribute-page).
-
+Basic design challenge [Build a Tribute Page](https://www.freecodecamp.com/challenges/build-a-tribute-page) from [freecodecamp.com](https://www.freecodecamp.com) for Front End Developer Certification.
+Hosted on Heroku at [https://tribute-page-freecodecamp.herokuapp.com/](https://tribute-page-freecodecamp.herokuapp.com/).
+**NOTE: First load will take around 60-90 seconds, as application is hosted on Heroku Developer's Dyno, which sleeps after 30 minutes of inactivity.**
 
 ## Project Structure 
 
