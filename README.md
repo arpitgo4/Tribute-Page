@@ -1,5 +1,7 @@
 
 # Tribute Page [![Build Status](https://travis-ci.org/arpitgo4/Tribute-Page.svg?branch=master)](https://travis-ci.org/arpitgo4/Tribute-Page)
+Basic design challenge from freecodecamp.com for Front Developer Certification [Build a Tribute Page](https://www.freecodecamp.com/challenges/build-a-tribute-page).
+
 
 ## Project Structure 
 
